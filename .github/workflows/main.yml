@@ -26,7 +26,7 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           plugin_habits_charts: yes
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           plugin_achievements: yes
           plugin_achievements_threshold: B
           plugin_achievements_secrets: yes
