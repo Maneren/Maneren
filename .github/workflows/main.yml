@@ -27,6 +27,7 @@ jobs:
           plugin_traffic: yes
           plugin_habits_charts: yes
           plugin_habits_facts: no
+          plugin_achievements: no
           
           plugin_licenses: yes
           plugin_languages_skipped: conan-center-index, oh-my-zsh
